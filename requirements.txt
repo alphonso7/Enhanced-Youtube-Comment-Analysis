@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+google-generativeai
+numpy
+pandas
+sklearn
+seaborn
+matplotlib
+plotly
